@@ -1,6 +1,16 @@
 # PowerBI-For-Data-Analysis
 # Profit & Growth Dashboard Project
 
+
+
+Aluong_Profit&Growth_Project/
+│
+├── Aluong_Profit&Growth_Project.pbix
+├── Aluong_Profit&Growth_Project.pdf
+├── Aluong_Profit&Growth_Project.pptx
+└── README.md
+
+
 ## Objective
 The objective of this project is to analyze sales performance, profitability, and growth trends in order to support data-driven business decisions. The dashboard helps identify areas to grow, fix, or stop based on performance metrics.
 
